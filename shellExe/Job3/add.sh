@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo "Premier nombre"
 read nb1
 echo "Second nombre"
